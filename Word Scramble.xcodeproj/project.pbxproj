@@ -12,6 +12,7 @@
 		7D76EE5420AA2C5300507AE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D76EE5220AA2C5300507AE0 /* Main.storyboard */; };
 		7D76EE5620AA2C5600507AE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D76EE5520AA2C5600507AE0 /* Assets.xcassets */; };
 		7D76EE5920AA2C5600507AE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D76EE5720AA2C5600507AE0 /* LaunchScreen.storyboard */; };
+		7D76EE6120AA309600507AE0 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7D76EE6020AA309600507AE0 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7D76EE5520AA2C5600507AE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D76EE5820AA2C5600507AE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D76EE5A20AA2C5600507AE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D76EE6020AA309600507AE0 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				7D76EE4E20AA2C5300507AE0 /* AppDelegate.swift */,
 				7D76EE5020AA2C5300507AE0 /* ViewController.swift */,
 				7D76EE5220AA2C5300507AE0 /* Main.storyboard */,
+				7D76EE6020AA309600507AE0 /* start.txt */,
 				7D76EE5520AA2C5600507AE0 /* Assets.xcassets */,
 				7D76EE5720AA2C5600507AE0 /* LaunchScreen.storyboard */,
 				7D76EE5A20AA2C5600507AE0 /* Info.plist */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7D76EE5920AA2C5600507AE0 /* LaunchScreen.storyboard in Resources */,
+				7D76EE6120AA309600507AE0 /* start.txt in Resources */,
 				7D76EE5620AA2C5600507AE0 /* Assets.xcassets in Resources */,
 				7D76EE5420AA2C5300507AE0 /* Main.storyboard in Resources */,
 			);
